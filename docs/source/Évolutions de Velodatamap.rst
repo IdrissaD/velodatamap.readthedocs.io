@@ -6,6 +6,10 @@
 
 Juin 2025
 --------------
+**Général :**
+
+* Ajout de l'attribution obligatoire à l'interface de téléchargement des données, ainsi qu'à l'archive obtenue après téléchargement des données.
+
 **Observatoire national des véloroutes :**
 
 * Correction de l'ordre d'affichage des véloroutes en donnant la priorité aux EuroVelo puis au SNV, puis aux SRV, puis aux SDV

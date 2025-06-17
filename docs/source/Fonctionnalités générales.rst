@@ -148,7 +148,7 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
 .. dropdown:: Télécharger des données
    :animate: fade-in-slide-down
 
-   Toutes les données téléchargeables des cartes véloroutes et équipements sont utilisables sous les conditions de la licence `Open Data Commons Open Database License v1.0 <https://opendatacommons.org/licenses/odbl/summary/>`_.
+   Toutes les données téléchargeables des cartes véloroutes et équipements sont utilisables sous les conditions de la licence `Open Data Commons Open Database License v1.0 <https://opendatacommons.org/licenses/odbl/summary/>`_. L'attribution « Les collectivités contributrices de l'Observatoire national des véloroutes. Réseau vélo et marche. » est obligatoire. 
    
    Pour accéder à l'interface de téléchargement, le requêteur, cliquez sur |requeteur|. Téléchargez des fichiers géolocalisés au format de votre choix en cliquant sur le bouton |extraction| ; ils comprendront tous les attributs nécessaires à une bonne exploitation de la donnée. Si vous n'avez besoin que d'un fichier tabulaire ne comprenant que les colonnes s'affichant dans le requêteur, vous pouvez directement cliquer sur |telechargement_tabulaire|.
    
